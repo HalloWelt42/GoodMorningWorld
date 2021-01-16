@@ -1,8 +1,8 @@
 {
-  "name": "hallowelt42/{name}",
+  "name": "hallowelt42/gmw",
   "autoload": {
     "psr-4": {
-      "{Name}\\": "src/"
+      "GMW\\": "src/"
     },
     "require-dev": {
       "phpunit/phpunit": "^8"
