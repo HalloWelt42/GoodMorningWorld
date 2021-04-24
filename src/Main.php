@@ -1,14 +1,13 @@
 <?php
 
 
-namespace gwm;
+namespace GMW;
 
 
 class Main
 {
-
-    public function __construct(){
-        print_r('test'.PHP_EOL);
+    public function __construct()
+    {
+      print_r('test'.PHP_EOL);
     }
-
 }
